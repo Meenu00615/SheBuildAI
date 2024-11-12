@@ -1,6 +1,8 @@
 # SheBuildAI
 # Google's Women Techmakers presents She Builds AI
 
+https://github.com/user-attachments/assets/edc73222-8316-4c33-b6bb-b08c3aa77ee6
+
 # Testing Instructions
 - To test the Gender Equality Chatbot application, follow these steps:
 
@@ -58,3 +60,14 @@ The application should now be running at http://127.0.0.1:5000/. Open this URL i
 Test with blank messages (the bot should respond with a default "I'm sorry, I didn't understand that" message).
 Test with various phrasings of questions, like "What are gender roles?" vs "Explain gender roles" to see if the bot responds accurately.
 Test the chatbot's responsiveness by interacting with the input field and observing the message flow.
+
+# Results
+
+![3](https://github.com/user-attachments/assets/f5809b5f-a34c-4479-bea1-0670efbbcf29)
+
+![2](https://github.com/user-attachments/assets/a714460f-1184-4fb0-844e-6190d4650861)
+
+![1](https://github.com/user-attachments/assets/f6078000-0302-43e7-b178-1821f5a5ee3b)
+
+![4](https://github.com/user-attachments/assets/9f0b6e0f-5e30-4f5d-9acb-4c1271547643)
+
