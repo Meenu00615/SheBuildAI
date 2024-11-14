@@ -1,7 +1,7 @@
 # SheBuildAI
 # Google's Women Techmakers presents She Builds AI
 
-Uploading She Build AI Chatbot Presentation.mp4…
+https://github.com/user-attachments/assets/a9466ab6-bc5f-4197-b70a-89b37ab16c51
 
 # Testing Instructions
 - To test the Gender Equality Chatbot application, follow these steps:
